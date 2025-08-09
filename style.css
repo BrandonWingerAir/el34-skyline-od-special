@@ -211,6 +211,13 @@ nav a:hover {
   color: white;
 }
 
+footer .tip-link {
+  background: #2962ff;
+  padding: 10px;
+  position: relative;
+  top: 6px;
+}
+
 .site-footer .social {
   margin-top: .5rem;
 }
